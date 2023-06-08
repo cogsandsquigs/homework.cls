@@ -9,6 +9,7 @@
 %% REQUIRED PACKAGES %%
 
 \RequirePackage{graphicx} % Required for inserting images
+\RequirePackage{gensymb} % General and mathematical symbols
 \RequirePackage{amsmath} % Mathematical symbols and such
 \RequirePackage{amssymb} % More mathematical symbols
 \RequirePackage{amsthm} % Mathematical proof-writing and such
@@ -19,6 +20,8 @@
 \RequirePackage{hyperref} % For linking to chapters, sections, etc.
 \RequirePackage{titlesec} % For custom sections and such
 \RequirePackage{mathtools} % Math tools to make my life easier
+\RequirePackage{physics} % Make complex math and physics symbols nicer
+\RequirePackage{siunitx} % Units!
 
 %% PACKAGE SETUP %%
 
