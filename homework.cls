@@ -81,3 +81,7 @@
 \newcommand{\R}{\mathbb{R}}
 \newcommand{\Q}{\mathbb{Q}}
 \newcommand{\C}{\mathbb{C}}
+
+% Ditto with Im and Re
+\newcommand{\Im}{\mathrm{Im}}
+\newcommand{\Re}{\mathrm{Re}}
